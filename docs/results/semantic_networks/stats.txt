@@ -1,0 +1,9 @@
+--- Designers ---
+modularity: 0.239
+modularity with resolution: 0.312
+resolution: 1.2
+
+--- Programmers
+modularity: 0.244
+modularity with resolution: 0.281
+resolution: 1.1
